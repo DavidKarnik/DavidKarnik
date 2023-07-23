@@ -2,6 +2,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact)
 
+[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/DavidKarnik/github-readme-stats)
+
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
