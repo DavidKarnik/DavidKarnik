@@ -4,7 +4,10 @@
 - 🌱 I’m currently learning how Fullstack works
 - 💬 Ask me about anything you want
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact)
+<div align="center">
+  <!-- GitHub Stats Card code goes here -->
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact)
+</div>
 
 ## Using/Worked with...
 
