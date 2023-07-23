@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I am David 👋
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact)
 
