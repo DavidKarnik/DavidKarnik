@@ -5,8 +5,9 @@
 - 💬 Ask me about anything you want
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="400" height="200">
 </p>
+
 
 
 ## Using/Worked with...
