@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning how Fullstack works
 - 💬 Ask me about anything you want
 
-
+<p></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="400" height="200">
 </p>
