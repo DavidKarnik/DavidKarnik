@@ -2,7 +2,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=DavidKarnik)](https://github.com/DavidKarnik/github-readme-stats)
 
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -17,4 +16,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+https://github.com/anuraghazra/github-readme-stats
 -->
