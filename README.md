@@ -1,7 +1,7 @@
 ## Hi there, I am David 👋
 
 - 🔭 I’m currently working on myself
-- 🌱 I’m currently learning how Fullstack works
+- 🌱 I’m currently learning how Fullstack works 🤌
 - 💬 Ask me about anything you want
 
 <p align="center">
