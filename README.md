@@ -46,7 +46,7 @@ Hello there! My name is David and these are some of my projects. Feel free to us
 
 <br>
 
-<img src="![](https://komarev.com/ghpvc/?username=DavidKarnik)">
+<img src="https://komarev.com/ghpvc/?username=DavidKarnik">
 
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
