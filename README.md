@@ -57,6 +57,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+## Hi there, I am David 👋
+
+- 🔭 I’m currently working on myself
+- 🌱 I’m currently learning how Fullstack works 🤌
+- 💬 Ask me about anything you want to know
+
 https://github.com/anuraghazra/github-readme-stats
 
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
