@@ -45,6 +45,7 @@ Hello there! My name is David and these are some of my projects. Feel free to us
 </div>
 
 <br>
+
 ![](https://komarev.com/ghpvc/?username=DavidKarnik)
 
 <!--
