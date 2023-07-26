@@ -1,4 +1,3 @@
-![](https://komarev.com/ghpvc/?username=DavidKarnik)
 ## About me ✍️
 
 Hello there! My name is David and these are some of my projects. Feel free to use them for good. I graduated from electrical engineering and currently I'm learning as much as I can about IT world. It is my passion and also my field at university.
@@ -45,6 +44,8 @@ Hello there! My name is David and these are some of my projects. Feel free to us
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
 </div>
 
+<br>
+![](https://komarev.com/ghpvc/?username=DavidKarnik)
 
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
