@@ -1,4 +1,4 @@
-## Hi there, I am David 👋
+## About me ✍️
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
