@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
-- 💬 Ask me about anything you want
+- 💬 Ask me about anything you want to know
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350">
