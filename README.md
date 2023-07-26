@@ -1,5 +1,7 @@
 ## About me ✍️
 
+Hello there! My name is David and these are some of my projects. Feel free to use them for good. I graduated from electrical engeneering and currently I'm learning as much as I can about IT world.
+
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
 - 💬 Ask me about anything you want to know
