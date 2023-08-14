@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Hi there, I am David 👋.
+## Hi there, I am David 👋
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
