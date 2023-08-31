@@ -12,7 +12,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 
 <details>
-  <summary>## Using/Worked with...</summary>
+  <summary>:rocket: Using/Worked with...</summary>
 
 
 <div align="center">
