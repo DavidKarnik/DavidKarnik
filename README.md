@@ -49,6 +49,11 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 </details>
 
+<details>
+  <summary>:zap: Mostly used</summary>
+  
+</details>
+
 <br>
 
 <!-- hidden visit counter -->
