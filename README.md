@@ -7,7 +7,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 - 💬 Ask me about anything you want to know
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350">
+<!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350"> -->
   <img src="https://github-readme-stats-davidkarnik.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350">
 </p>
 
