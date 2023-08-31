@@ -51,6 +51,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 <details>
   <summary>:zap: Mostly used</summary>
+  <br>
   <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
