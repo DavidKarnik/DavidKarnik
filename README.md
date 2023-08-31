@@ -1,7 +1,7 @@
 # About me ✍️
 
 Hello there! My name is David and there are some of my projects. Feel free to use them for good. I graduated from electrical engineering and currently I'm learning as much as I can about IT world. It is my passion and also my field at university.
-
+https://github.com/DavidKarnik/DavidKarnik/blob/main/README.md
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
 - 💬 Ask me about anything you want to know
@@ -57,6 +57,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
     <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
     <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
     <img src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA">
+    <img src="https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black" alt="WebStorm">
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </div>
 </details>
