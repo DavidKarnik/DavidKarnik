@@ -46,7 +46,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-
+<h2>... and so on</h2>
 </details>
 
 <details>
