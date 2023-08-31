@@ -1,7 +1,7 @@
 # About me ✍️
 
 Hello there! My name is David and there are some of my projects. Feel free to use them for good. I graduated from electrical engineering and currently I'm learning as much as I can about IT world. It is my passion and also my field at university.
-https://github.com/DavidKarnik/DavidKarnik/blob/main/README.md
+
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
 - 💬 Ask me about anything you want to know
