@@ -50,7 +50,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 </details>
 
 <details>
-  <summary>:zap: Mostly used</summary>
+  <summary>:zap: Using atm</summary>
   <br>
   <div align="center">
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
