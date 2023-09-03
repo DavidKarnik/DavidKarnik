@@ -15,6 +15,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 <details>
   <summary>:rocket: Using/Worked with...</summary>
 
+<br>
 
 <div align="center">
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
