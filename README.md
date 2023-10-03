@@ -66,11 +66,12 @@ Hello there! My name is David and there are some of my projects. Feel free to us
     <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div>
-</details>
-
-<!-- <br> -->
 
 ---
+  
+</details>
+
+<br>
 
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
