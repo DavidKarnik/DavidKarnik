@@ -75,7 +75,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=DavidKarnik&color=86a8e7">
+  <img src="https://komarev.com/ghpvc/?username=DavidKarnik&color=86cce7">
 </div>
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
