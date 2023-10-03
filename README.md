@@ -6,7 +6,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
-- 🙈 I am interested in `Java`, `Backend`, `CI/CD`, `Fullstack`!
+- 👨‍💻 I am interested in `Java`, `Backend`, `CI/CD`, `Fullstack`!
 - 💬 Ask me about anything you want to know
 
 ---
