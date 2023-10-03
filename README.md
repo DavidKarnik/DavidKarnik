@@ -68,7 +68,9 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 </div>
 </details>
 
-<br>
+<!-- <br> -->
+
+---
 
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
