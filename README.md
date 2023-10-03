@@ -6,11 +6,14 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 - 🌱 I’m currently learning how Fullstack works 🤌
 - 💬 Ask me about anything you want to know
 
+---
+
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350"> -->
   <img src="https://github-readme-stats-davidkarnik.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350">
 </p>
 
+---
 
 <details>
   <summary>:rocket: Using/Worked with...</summary>
