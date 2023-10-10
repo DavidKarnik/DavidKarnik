@@ -76,6 +76,8 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 <br>
 
+![](https://komarev.com/ghpvc/?username=DavidKarnik&color=86cce7)
+
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
 <div align="center">
