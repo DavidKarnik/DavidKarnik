@@ -76,6 +76,8 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 <br>
 
+<img src="https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
 <div align="center">
