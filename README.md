@@ -71,9 +71,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 <!-- <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"> -->
     <img src="https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
-</div>
-
----
+  </div>
   
 </details>
 
