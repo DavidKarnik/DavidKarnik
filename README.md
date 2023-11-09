@@ -75,6 +75,8 @@ Hello there! My name is David and there are some of my projects. Feel free to us
   
 </details>
 
+<p>Contact me</p>
+
 <br>
 
 <!-- hidden visit counter -->
