@@ -76,6 +76,12 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 </details>
 
 <p>Contact me</p>
+<p align="left">
+  <a href="https://www.linkedin.com/in/david-karnik/" target="blank"><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+  </a>
+<!--   <a href="https://www.instagram.com/marcelus_h/" target="blank"><img height=30 src="https://cdn.myshoptet.com/usr/www.dobrycider.cz/user/documents/upload/instagram-icon.png" />
+  </a> -->
+</p>
 
 <br>
 
