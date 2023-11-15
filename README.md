@@ -77,7 +77,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 
 <br>
 
-<p>Contact me</p>
+<p><strong>Contact me</strong></p>
 <p align="left">
   <a href="https://www.linkedin.com/in/david-karnik/" target="blank"><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
   </a>
