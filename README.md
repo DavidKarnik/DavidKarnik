@@ -14,7 +14,7 @@ Hello there! My name is David and there are some of my projects. Feel free to us
 <p align="center">
 <!--   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact" alt="Top Langs" width="350"> -->
 <!--   <img src="https://github-readme-stats-davidkarnik.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff" alt="Top Langs" width="350"> -->
-  <img src="https://github-readme-stats-phi-nine-28.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact&bg_color=91eac9,86a8e7,7f7fd5&title_color=fff&text_color=fff" alt="Top Langs" width="350">
+  <img src="https://github-readme-stats-phi-nine-28.vercel.app/api/top-langs/?username=DavidKarnik&layout=compact&bg_color=7f7fd5,86a8e7,91eac9&title_color=fff&text_color=fff" alt="Top Langs" width="350">
 </p>
 
 ---
