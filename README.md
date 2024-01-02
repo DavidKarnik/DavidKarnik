@@ -2,7 +2,7 @@
 
 # About me ✍️
 
-Hello there! My name is David and there are some of my projects. Feel free to use them for good. I graduated from electrical engineering and currently I'm learning as much as I can about IT world. It is my passion and also my field at university.
+Hello there! My name is David and here are some of my projects. Feel free to use them for good. I graduated from electrical engineering and currently I'm learning as much as I can about IT world. It is my passion and also my field at university.
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how Fullstack works 🤌
