@@ -97,6 +97,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 </p>
 
 ---
+<p><strong>Projects to checkout</strong></p>
 
 <!-- Its main projects -->
 <p align="center">
