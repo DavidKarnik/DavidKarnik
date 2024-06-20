@@ -96,6 +96,20 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   </a> -->
 </p>
 
+---
+
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/DavidKarnik/bankWebApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=bankWebApp" />
+  </a>
+  <a href="https://github.com/DavidKarnik/todolist">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=todolist" />
+  </a>
+</p>
+
+---
+
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
 <div align="center">
