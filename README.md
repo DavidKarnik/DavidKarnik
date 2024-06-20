@@ -106,6 +106,12 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <a href="https://github.com/DavidKarnik/todolist">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=todolist" />
   </a>
+  <a href="  https://github.com/DavidKarnik/webGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=webGame" />
+  </a>
+  <a href="https://github.com/DavidKarnik/moneyManageWeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=moneyManageWeb" />
+  </a>
 </p>
 
 ---
