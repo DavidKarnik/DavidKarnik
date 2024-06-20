@@ -98,7 +98,33 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 <p><strong>Projects to checkout</strong></p>
 
-
+<!-- Its main projects -->
+<p align="center">
+  <a href="https://github.com/DavidKarnik/bankWebApp">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=bankWebApp" />
+  </a>
+  <a href="https://github.com/DavidKarnik/todolist">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=todolist" />
+  </a>
+  <a href="https://github.com/DavidKarnik/webGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=webGame" />
+  </a>
+  <a href="https://github.com/DavidKarnik/moneyManageWeb">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=moneyManageWeb" />
+  </a>
+  <a href="https://github.com/DavidKarnik/balloonWebGame">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=balloonWebGame" />
+  </a>
+  <a href="https://github.com/DavidKarnik/ESP32withMQTTandBLE">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=ESP32withMQTTandBLE" />
+  </a>
+  <a href="https://github.com/DavidKarnik/pg2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=pg2" />
+  </a>
+  <a href="https://github.com/DavidKarnik/pongGame3D">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=pongGame3D" />
+  </a>
+</p>
 
 ---
 
