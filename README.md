@@ -20,7 +20,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 ---
 
 <p align="center">
-  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=DavidKarnik)>
+  <img src="![trophy](https://github-profile-trophy.vercel.app/?username=DavidKarnik)">
 </p>
 
 <details>
