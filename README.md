@@ -19,7 +19,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 ---
 
+<p align="center">
 ![trophy](https://github-profile-trophy.vercel.app/?username=DavidKarnik)
+</p>
 
 <details>
   <summary>:rocket: Using/Worked with...</summary>
