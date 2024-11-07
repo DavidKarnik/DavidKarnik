@@ -135,6 +135,10 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DavidKarnik&color=86cce7">
 </div>
+
+<div align="center">
+  <code>Programming is like an onion, the more you peel it the more you want to cry.</code>
+</div>
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 
