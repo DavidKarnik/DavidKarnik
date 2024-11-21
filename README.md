@@ -20,6 +20,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 ---
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=DavidKarnik) -->
+<!-- https://github.com/Ileriayo/markdown-badges -->
 
 <details>
   <summary>:rocket: Using/Worked with...</summary>
