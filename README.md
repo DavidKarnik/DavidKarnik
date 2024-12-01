@@ -100,91 +100,16 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 
 <br>
-<details>
-<summary><b>My projects by languages:</b></summary>
 
-<details>
-  <summary>
-    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  </summary>
+| Jazyk       | Projekt 1                                  | Projekt 2                                  | Projekt 3                              |
+|-------------|--------------------------------------------|--------------------------------------------|----------------------------------------|
+| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Simulátor pro správu paměti                | Hra Piškvorky                             | Systém pro správu studentů              |
+| ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Kalkulačka pro vědecké výpočty            | Simulace fyzikálního modelu               | 3D hra s fyzikou                       |
+| ![Python](https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white) | Webová aplikace pro správu úkolů          | Skript pro analýzu dat                    | Chatbot pro zákaznickou podporu        |
+| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Aplikace pro správu financí               | Hra "Sudoku"                              | Backend pro e-commerce aplikaci        |
+| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | Mobilní aplikace pro sledování zdraví     | Aplikace pro plánování dovolené            | Hra pro mobilní zařízení               |
 
-  - **Projekt 1**: Simulátor pro správu paměti – jednoduchý program pro pochopení alokace a dealokace paměti.
-  - **Projekt 2**: Hra "Piškvorky" – konzolová aplikace s AI soupeřem.
 
-</details>
-
-<details>
-<summary><b>C++</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Kalkulačka pro vědecké výpočty").
-- **Projekt 2**: Popis projektu (např. "Simulace fyzikálního modelu").
-
-</details>
-
-<details>
-<summary><b>C#</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Desktopová aplikace pro správu financí").
-- **Projekt 2**: Popis projektu (např. "Hra: Tic Tac Toe").
-
-</details>
-
-<details>
-<summary><b>HTML5 + CSS3</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Osobní portfolio").
-- **Projekt 2**: Popis projektu (např. "Statická webová stránka pro restauraci").
-
-</details>
-
-<details>
-<summary><b>Java</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Android aplikace: To-Do seznam").
-- **Projekt 2**: Popis projektu (např. "Konzolový program pro správu úkolů").
-
-</details>
-
-<details>
-<summary><b>Kotlin</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Android aplikace: Správce kontaktů").
-- **Projekt 2**: Popis projektu (např. "Jednoduchý chatovací klient").
-
-</details>
-
-<details>
-<summary><b>JavaScript</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Interaktivní mapa s Leaflet.js").
-- **Projekt 2**: Popis projektu (např. "Jednoduchá hra: Snake").
-
-</details>
-
-<details>
-<summary><b>TypeScript</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Frontend aplikace s Angular").
-- **Projekt 2**: Popis projektu (např. "Dynamické formuláře").
-
-</details>
-
-<details>
-<summary><b>Python</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Web scraper pro sběr dat").
-- **Projekt 2**: Popis projektu (např. "Strojové učení: Predikce cen nemovitostí").
-
-</details>
-
-<details>
-<summary><b>MATLAB</b></summary>
-
-- **Projekt 1**: Popis projektu (např. "Analýza dat v signálech EEG").
-- **Projekt 2**: Popis projektu (např. "Numerické řešení diferenciálních rovnic").
-
-</details>
-</details>
 
 <br>
 
