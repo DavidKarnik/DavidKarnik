@@ -101,13 +101,17 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 <br>
 
-| Jazyk       | Projekt 1                                  | Projekt 2                                  | Projekt 3                              |
-|-------------|--------------------------------------------|--------------------------------------------|----------------------------------------|
-| ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) | Simulátor pro správu paměti                | Hra Piškvorky                             | Systém pro správu studentů              |
-| ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) | Kalkulačka pro vědecké výpočty            | Simulace fyzikálního modelu               | 3D hra s fyzikou                       |
-| ![Python](https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white) | Webová aplikace pro správu úkolů          | Skript pro analýzu dat                    | Chatbot pro zákaznickou podporu        |
-| ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) | Aplikace pro správu financí               | Hra "Sudoku"                              | Backend pro e-commerce aplikaci        |
-| ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) | Mobilní aplikace pro sledování zdraví     | Aplikace pro plánování dovolené            | Hra pro mobilní zařízení               |
+
+| Projekt                                   | C                                     | C++                                  | Python                                | Java                                   | Kotlin                                  |
+|-------------------------------------------|---------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
+| Simulátor pro správu paměti               | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |                                      |                                       |                                        |                                         |
+| Hra Piškvorky                             |                                       | ![C++](https://img.shields.io/badge/c%2B%2B-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) |                                       |                                        |                                         |
+| Systém pro správu studentů                | ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |                                      |                                       |                                        |                                         |
+| Webová aplikace pro správu úkolů          |                                       |                                      | ![Python](https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white) |                                        |                                         |
+| Skript pro analýzu dat                    |                                       |                                      | ![Python](https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white) |                                        |                                         |
+| Backend pro e-commerce aplikaci           |                                       |                                      |                                       | ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) |                                         |
+| Mobilní aplikace pro sledování zdraví     |                                       |                                      |                                       |                                        | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
+| Hra pro mobilní zařízení                  |                                       |                                      |                                       |                                        | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
 
 
 
