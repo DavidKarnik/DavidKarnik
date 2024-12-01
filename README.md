@@ -100,7 +100,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 
 <details>
-  <summary>My projects</summary>
+  <summary>Some of my projects</summary>
 <br>
 
 | Projekt                                   | C                                     | C++                                  | Python                                | Java                                   | Kotlin                                  |
