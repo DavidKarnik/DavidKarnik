@@ -33,6 +33,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="ApacheTomcat">
 </div>
 
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring">
   <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
@@ -49,7 +50,6 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio">
   <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" alt="Vim">
   <img src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green" alt="PyCharm">
-  
   <img src="https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white" alt="Audacity">
 </div>
 
@@ -96,6 +96,92 @@ Hello there! My name is David and here are some of my projects. Feel free to use
     <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" alt="Vue">
   </div>
   
+</details>
+
+<br>
+---
+<details>
+<summary><b>Projekty podle jazyků</b></summary>
+
+<details>
+<summary><b>C</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Simulátor pro správu paměti").
+- **Projekt 2**: Popis projektu (např. "Hra: Piškvorky").
+
+</details>
+
+<details>
+<summary><b>C++</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Kalkulačka pro vědecké výpočty").
+- **Projekt 2**: Popis projektu (např. "Simulace fyzikálního modelu").
+
+</details>
+
+<details>
+<summary><b>C#</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Desktopová aplikace pro správu financí").
+- **Projekt 2**: Popis projektu (např. "Hra: Tic Tac Toe").
+
+</details>
+
+<details>
+<summary><b>HTML5 + CSS3</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Osobní portfolio").
+- **Projekt 2**: Popis projektu (např. "Statická webová stránka pro restauraci").
+
+</details>
+
+<details>
+<summary><b>Java</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Android aplikace: To-Do seznam").
+- **Projekt 2**: Popis projektu (např. "Konzolový program pro správu úkolů").
+
+</details>
+
+<details>
+<summary><b>Kotlin</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Android aplikace: Správce kontaktů").
+- **Projekt 2**: Popis projektu (např. "Jednoduchý chatovací klient").
+
+</details>
+
+<details>
+<summary><b>JavaScript</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Interaktivní mapa s Leaflet.js").
+- **Projekt 2**: Popis projektu (např. "Jednoduchá hra: Snake").
+
+</details>
+
+<details>
+<summary><b>TypeScript</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Frontend aplikace s Angular").
+- **Projekt 2**: Popis projektu (např. "Dynamické formuláře").
+
+</details>
+
+<details>
+<summary><b>Python</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Web scraper pro sběr dat").
+- **Projekt 2**: Popis projektu (např. "Strojové učení: Predikce cen nemovitostí").
+
+</details>
+
+<details>
+<summary><b>MATLAB</b></summary>
+
+- **Projekt 1**: Popis projektu (např. "Analýza dat v signálech EEG").
+- **Projekt 2**: Popis projektu (např. "Numerické řešení diferenciálních rovnic").
+
+</details>
 </details>
 
 <br>
