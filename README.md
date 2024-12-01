@@ -99,10 +99,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 </details>
 
 
-<br>
-
 <details>
   <summary>My projects</summary>
+<br>
 
 | Projekt                                   | C                                     | C++                                  | Python                                | Java                                   | Kotlin                                  |
 |-------------------------------------------|---------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
