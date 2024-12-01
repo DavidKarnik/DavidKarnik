@@ -104,10 +104,12 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 <summary><b>My projects by languages:</b></summary>
 
 <details>
-<summary><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></summary>
+  <summary>
+    <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  </summary>
 
-- **Projekt 1**: Popis projektu (např. "Simulátor pro správu paměti").
-- **Projekt 2**: Popis projektu (např. "Hra: Piškvorky").
+  - **Projekt 1**: Simulátor pro správu paměti – jednoduchý program pro pochopení alokace a dealokace paměti.
+  - **Projekt 2**: Hra "Piškvorky" – konzolová aplikace s AI soupeřem.
 
 </details>
 
