@@ -98,13 +98,13 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   
 </details>
 
+
 <br>
----
 <details>
-<summary><b>Projekty podle jazyků</b></summary>
+<summary><b>My projects by languages:</b></summary>
 
 <details>
-<summary><b>C</b></summary>
+<summary><img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C"></summary>
 
 - **Projekt 1**: Popis projektu (např. "Simulátor pro správu paměti").
 - **Projekt 2**: Popis projektu (např. "Hra: Piškvorky").
