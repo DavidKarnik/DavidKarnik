@@ -98,6 +98,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   
 </details>
 
+<!--
 
 <details>
   <summary>Some of my projects</summary>
@@ -115,6 +116,8 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Hra pro mobilní zařízení                  |                                       |                                      |                                       |                                        | ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) |
 
 </details>
+
+--> 
 
 <br>
 
