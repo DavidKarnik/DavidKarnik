@@ -38,9 +38,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 <br>
 
 <div align="center">
-  ![AWS][aws]
-  ![Ubuntu][ubuntu]
-  ![TomCat][tomcat]
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
+  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="ApacheTomcat">
 </div>
 
 <br>
