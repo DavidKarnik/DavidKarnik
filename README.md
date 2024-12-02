@@ -1,6 +1,14 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:83eaf1,100:63a4ff&height=200&text=Hello,%20I%27m%20David%20Kárník!%20%F0%9F%91%8B&fontSize=24&fontAlignY=40&fontColor=FFFFFF" alt="header" width="100%" />
 
-[badge-java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
+[ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[tomcat]: https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
+
+[java]: https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white
+[android-studio]: https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white
+[sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
+[spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
+
 
 # About me ✍️
 
@@ -30,9 +38,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
-  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu">
-  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black" alt="ApacheTomcat">
+  ![AWS][aws]
+  ![Ubuntu][ubuntu]
+  ![TomCat][tomcat]
 </div>
 
 <br>
@@ -106,7 +114,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Projekt                                					    | Jazyk                                | Framework/IDE                             | Tools                                    | DB                                  | VVV                                  |
 |-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Mobilní aplikace pro organizátory dětských aktivit 				    | ![Java][badge-java] | <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio"> |                                        | <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> |                                         |
+| Mobilní aplikace pro organizátory dětských aktivit 				    | ![Java][java] | <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio"> |                                        | <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> |                                         |
 | Webová aplikace banky s přihlášením, 2FA ověřením a šifrováním dat 		    | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> |                                        |                                         |                                         |
 | Bakalářský projekt - Integrace ESP32 do systému pro chytrou domácnost 	    |                                      |                                       |                                        |                                         |                                         |
 | Klikací webová hra s databází a přihlášením (3-vrstvá architektura) 		    |                                      |                                       |                                        |                                         |                                         |
