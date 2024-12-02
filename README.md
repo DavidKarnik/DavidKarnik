@@ -98,6 +98,38 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   
 </details>
 
+<details>
+  <summary>Some of my projects</summary>
+<br>
+
+| Projekt                                					    | Jazyk                                | Framework/Tools                       | IDE                                    | Python                                  | Kotlin                                  |
+|-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
+| Mobilní aplikace pro organizátory dětských aktivit 				    |                                      |                                       |                                        |                                         |                                         |
+| Webová aplikace banky s přihlášením, 2FA ověřením a šifrováním dat 		    |                                      |                                       |                                        |                                         |                                         |
+| Bakalářský projekt - Integrace ESP32 do systému pro chytrou domácnost 	    |                                      |                                       |                                        |                                         |                                         |
+| Klikací webová hra s databází a přihlášením (3-vrstvá architektura) 		    |                                      |                                       |                                        |                                         |                                         |
+| Strategická webová hra s mapou vesnic 					    |                                      |                                       |                                        |                                         |                                         |
+| 3D desktop hra pomocí OpenGL s vlastním enginem a modely 			    |                                      |                                       |                                        |                                         |                                         |
+| Simulátor čerpací stanice (parallel, Go Routines, Go Concurrency, Docker) 	    |                                      |                                       |                                        |                                         |                                         |
+| Aplikace pro správu financí 							    |                                      |                                       |                                        |                                         |                                         |
+| 3D webová hra Ping-pong pomocí Three.js 					    |                                      |                                       |                                        |                                         |                                         |
+| Webová hra pomocí čistého JavaScriptu (inspirace Bloons Tower Defense) 	    |                                      |                                       |                                        |                                         |                                         |
+| Webová aplikace ToDo List s databází a šifrováním (monolit architektura) 	    |                                      |                                       |                                        |                                         |                                         |
+| Desktop bojová hra (inspirace Swords and Sandals) 				    |                                      |                                       |                                        |                                         |                                         |
+| Pravděpodobnost a statistická analýza 					    |                                      |                                       |                                        |                                         |                                         |
+| Desktop aplikace Piškvorky 				    |                                      |                                       |                                        |                                         |                                         |
+| Rozpoznávání řeči, objektů a textu v obraze (fotografie i videa) 				    |                                      |                                       |                                        |                                         |                                         |
+| Chytrá domácnost pomocí Raspberry Pi 				    |                                      |                                       |                                        |                                         |                                         |
+| Webscraper (web harvesting a extrakce dat) 				    |                                      |                                       |                                        |                                         |                                         |
+| Šifrovací algoritmy (Caesar, Vigenér, Substituční, Transpozice, RSA)  				    |                                      |                                       |                                        |                                         |                                         |
+| Aplikace kalkulačky s vlastním UI  				    |                                      |                                       |                                        |                                         |                                         |
+| Kompresní algoritmy (Huffman, LZW, BWT, RLE)  				    |                                      |                                       |                                        |                                         |                                         |
+| Autonomní závodní model auta ROBOTIS (RoboPlus) 				    |                                      |                                       |                                        |                                         |                                         |
+| vvv  				    |                                      |                                       |                                        |                                         |                                         |
+| vvv  				    |                                      |                                       |                                        |                                         |                                         |
+| vvv  				    |                                      |                                       |                                        |                                         |                                         |
+</details>
+
 <!--
 
 <details>
