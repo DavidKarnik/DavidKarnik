@@ -102,10 +102,10 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <summary>Some of my projects</summary>
 <br>
 
-| Projekt                                					    | Jazyk                                | Framework/Tools                       | IDE                                    | Python                                  | Kotlin                                  |
+| Projekt                                					    | Jazyk                                | Framework/IDE                             | Tools                                    | DB                                  | VVV                                  |
 |-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Mobilní aplikace pro organizátory dětských aktivit 				    |                                      |                                       |                                        |                                         |                                         |
-| Webová aplikace banky s přihlášením, 2FA ověřením a šifrováním dat 		    |                                      |                                       |                                        |                                         |                                         |
+| Mobilní aplikace pro organizátory dětských aktivit 				    | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> | <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio"> |                                        | <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"> |                                         |
+| Webová aplikace banky s přihlášením, 2FA ověřením a šifrováním dat 		    | <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"> | <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"> |                                        |                                         |                                         |
 | Bakalářský projekt - Integrace ESP32 do systému pro chytrou domácnost 	    |                                      |                                       |                                        |                                         |                                         |
 | Klikací webová hra s databází a přihlášením (3-vrstvá architektura) 		    |                                      |                                       |                                        |                                         |                                         |
 | Strategická webová hra s mapou vesnic 					    |                                      |                                       |                                        |                                         |                                         |
@@ -128,6 +128,8 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | vvv  				    |                                      |                                       |                                        |                                         |                                         |
 | vvv  				    |                                      |                                       |                                        |                                         |                                         |
 | vvv  				    |                                      |                                       |                                        |                                         |                                         |
+
+
 </details>
 
 <!--
