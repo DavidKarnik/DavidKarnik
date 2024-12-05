@@ -103,6 +103,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   <img src="https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=matlab&logoColor=white" alt="MATLAB">
+  <img src="https://img.shields.io/badge/go-%23049fd9.svg?style=for-the-badge&logo=go&logoColor=white" alt="GO">
 </div>
 
 <br>
