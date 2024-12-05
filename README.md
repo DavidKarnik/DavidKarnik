@@ -29,6 +29,8 @@
 [ts]: https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white
 [python]: https://img.shields.io/badge/python-%23DD0031.svg?style=for-the-badge&logo=python&logoColor=white
 [matlab]: https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=matlab&logoColor=white
+[go]: https://img.shields.io/badge/go-%23049fd9.svg?style=for-the-badge&logo=go&logoColor=white
+[micropython]: https://img.shields.io/badge/micropython-3670A0?style=for-the-badge&logo=micropython&logoColor=white
 
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [mysql]: https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white
