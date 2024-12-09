@@ -133,7 +133,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <summary>💻 Some of my projects</summary>
 <br>
 
-| Projekt                                					    | Jazyk                                | Framework/IDE                             | Tools                                    | DB                                  | VVV                                  |
+| Project                                					    | Language                                | Framework/IDE                             | Tools                                    | DB                                  | VVV                                  |
 |-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
 | Mobile Application for Children's Activity Organizers 				    | ![Java][java] | ![android-studio][android-studio] |                                        | ![sqlite][sqlite] |                                         |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption 		    | ![Java][java] | ![spring][spring] |                                        |                                         |                                         |
