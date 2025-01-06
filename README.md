@@ -2,6 +2,7 @@
 
 [aws]: https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white
 [ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
+[ubuntuserver]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu-server&logoColor=white
 [tomcat]: https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
 
 [spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
@@ -135,7 +136,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					    | Language                                | Framework/IDE                             | Tools                                    | DB                                  | Extra                                  |
 |-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Self hosted smart home on ubuntu server with HA |          |          |          |          |
+| Self hosted smart home on ubuntu server with HA |          |[ubuntuserver]|          |          |
 | Mobile Application for Children's Activity Organizers 				    | ![Java][java] | ![android-studio][android-studio] |                                        | ![sqlite][sqlite] |                                         |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption 		    | ![Java][java] | ![spring][spring] |                                        |                                         |                                         |
 | Bachelor's Thesis - Integrating ESP32 into a Smart Home System 	    | ![c++][c++] ![c][c] | ![vscode] |                                        |                                         |                                         |
