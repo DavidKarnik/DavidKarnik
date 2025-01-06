@@ -136,7 +136,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					    | Language                                | Framework/IDE                             | Tools                                    | DB                                  | Extra                                  |
 |-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|-----------------------------------------|
-| Self hosted smart home on ubuntu server with HA |          |[ubuntuserver]|          |          |
+| Self hosted smart home on ubuntu server with HA |          |![ubuntuserver]|          |          |
 | Mobile Application for Children's Activity Organizers 				    | ![Java][java] | ![android-studio][android-studio] |                                        | ![sqlite][sqlite] |                                         |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption 		    | ![Java][java] | ![spring][spring] |                                        |                                         |                                         |
 | Bachelor's Thesis - Integrating ESP32 into a Smart Home System 	    | ![c++][c++] ![c][c] | ![vscode] |                                        |                                         |                                         |
