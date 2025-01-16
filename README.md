@@ -159,8 +159,6 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Compression Algorithms (Huffman, LZW, BWT, RLE)  				    | ![Java][java] ![python][python] |                                       |                                        |                                         |                                         |
 | Autonomous Racing Model Car ROBOTIS (RoboPlus) 				    |                                      |                                       |                                        |                                         |                                         |
 | vvv  				    |                                      |                                       |                                        |                                         |                                         |
-| vvv  				    |                                      |                                       |                                        |                                         |                                         |
-| vvv  				    |                                      |                                       |                                        |                                         |                                         |
 
 
 </details>
