@@ -139,7 +139,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <summary>💻 Some of my projects</summary>
 <br>
 
-| Project                                					                            | Language                  | Framework/IDE                   | DB                    | Tools                                  |
+| Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
 | Self hosted smart home on ubuntu server with HA                             |                           | ![ubuntuserver]                 |                          |                          |
 | Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                  |
