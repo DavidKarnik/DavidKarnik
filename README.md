@@ -139,20 +139,20 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <summary>💻 Some of my projects</summary>
 <br>
 
-| Project                                					                            | Language                  | Framework/IDE                   | Tools                    | DB                                  |
+| Project                                					                            | Language                  | Framework/IDE                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
 | Self hosted smart home on ubuntu server with HA                             |                           | ![ubuntuserver]                 |                          |                          |
-| Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               |                          | ![sqlite][sqlite] |
+| Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                  |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                                         |
 | Bachelor's Thesis - Integrating ESP32 into a Smart Home System 	            | ![c++] ![c]               | ![vscode]                       |                          |                                         |
-| Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![java] ![ts]             | ![intellijidea] ![webstorm]     |                          |![mysql]|       |
+| Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![java] ![ts]             | ![intellijidea] ![webstorm]     | ![mysql]                 |                  |       |
 | Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![java] ![ts]             | ![angular] ![spring]            |                        |                                         |
 | 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++] ![c]               | ![vs]                           |                         |                                         |
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |                                 |                          |                                         |
-| Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |                          | ![json] |                                         |
+| Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |  ![json]                 |                  |                                         |
 | 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     |                                 |                      |                                  |                             |
 | Web Game using Pure JavaScript (Inspired by Bloons Tower Defense)         	| ![js]                     |                                 |                      |                        |                          |
-|To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               |                                 |                                        | ![mongodb] |         |
+|To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               |                                 |     ![mongodb]            |            |         |
 | Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 |                                  |                      |                         |                           |
 | Probability and Statistical Analysis 					                              | ![python]                 |                                 |                      |                        |                          |
 | Desktop Tic-Tac-Toe Application 				  			                            | ![java]			              |                              |                         |                         |                           |
