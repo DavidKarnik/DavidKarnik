@@ -154,7 +154,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Web Game using Pure JavaScript (Inspired by Bloons Tower Defense)         	| ![js][js]                 |                      |                          |                        |                          |
 |To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js][js]           |                                       |                                        | ![mongodb] |         |
 | Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 |                          |                        |                         |                           |
-| Probability and Statistical Analysis 					                              | ![python][python]         |                       |                  |                        |                          |
+| Probability and Statistical Analysis 					                              | ![python]         |                       |                  |                        |                          |
 | Desktop Tic-Tac-Toe Application 				  			                            | ![Java][java]			        |                      |                          |                         |                           |
 | Speech, Object, and Text Recognition in Images (Photos and Videos) 		      | ![matlab][matlab] ![python][python] |                   |                        |                        |                        |
 | Smart Home System using Raspberry Pi 				   		                          | ![micropython][micropython] |                     |                |                    |                       |
