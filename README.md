@@ -141,13 +141,13 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					    | Language                                | Framework/IDE                             | Tools                                    | DB                                  |
 |-----------------------------------------------------------------------------------|--------------------------------------|---------------------------------------|----------------------------------------|-----------------------------------------|
-| Self hosted smart home on ubuntu server with HA |          | ![ubuntuserver] |          |          |
+| Self hosted smart home on ubuntu server with HA                   |          | ![ubuntuserver] |          |          |
 | Mobile Application for Children's Activity Organizers 				    | ![Java][java] | ![android-studio][android-studio] |                                        | ![sqlite][sqlite] |
-| Bank Web Application with Login, 2FA Authentication, and Data Encryption 		    | ![Java][java] | ![spring][spring] |                                        |                                         |
-| Bachelor's Thesis - Integrating ESP32 into a Smart Home System 	    | ![c++][c++] ![c][c] | ![vscode] |                                        |                                         |
-| Click-Based Web Game with Database and Login (3-Tier Architecture) 		    | ![Java][java] ![ts][ts] | ![intellijidea] ![webstorm] |                                        |![mysql]|       |
-| Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					    | ![Java][java] ![ts][ts] | ![angular] ![spring] |                                        |                                         |
-| 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			    | ![c++][c++] ![c][c] | ![vs] |                                        |                                         |
+| Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![Java][java] | ![spring][spring] |                                        |                                         |
+| Bachelor's Thesis - Integrating ESP32 into a Smart Home System 	  | ![c++][c++] ![c][c] | ![vscode] |                                        |                                         |
+| Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![Java][java] ![ts][ts] | ![intellijidea] ![webstorm] |                                        |![mysql]|       |
+| Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![Java][java] ![ts][ts] | ![angular] ![spring] |                                        |                                         |
+| 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++][c++] ![c][c] | ![vs] |                                        |                                         |
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go][go] |                                       |                                        |                                         |
 | Finance Management Web Application 							    | ![Java][java] ![js][js] | ![spring] ![vue] |                                        | ![json] |                                         |
 | 3D Web Ping-Pong Game using Three.js 					    | ![js][js] |                                       |                                        |                                         |                                         |
