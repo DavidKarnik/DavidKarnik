@@ -37,6 +37,10 @@
 [mysql]: https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white
 [mongodb]: https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white
 [docker]: https://img.shields.io/badge/docker-lightblue?style=for-the-badge&logo=docker
+[json]: https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
+
+[jwt]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
+[latex]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 
 # About me ✍️
 
@@ -144,7 +148,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					    | ![Java][java] ![ts][ts] |![angular] ![spring] |                                        |                                         |                                         |
 | 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			    | ![c++][c++] ![c][c] |![vs]|                                        |                                         |                                         |
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go][go] |                                       |                                        |                                         |                                         |
-| Finance Management Web Application 							    | ![Java][java] ![js][js] | ![spring] ![vue] |                                        |                                         |                                         |
+| Finance Management Web Application 							    | ![Java][java] ![js][js] | ![spring] ![vue] |                                        | ![json] |                                         |
 | 3D Web Ping-Pong Game using Three.js 					    | ![js][js] |                                       |                                        |                                         |                                         |
 | Web Game using Pure JavaScript (Inspired by Bloons Tower Defense) 	    | ![js][js] |                                       |                                        |                                         |                                         |
 |To-Do List Web Application with Database and Encryption (Monolithic Architecture) 	    | ![js][js] |                                       |                                        | ![mongodb] |         |
