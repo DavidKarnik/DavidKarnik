@@ -32,6 +32,7 @@
 [matlab]: https://img.shields.io/badge/MATLAB-0076A8.svg?style=for-the-badge&logo=matlab&logoColor=white
 [go]: https://img.shields.io/badge/go-%23049fd9.svg?style=for-the-badge&logo=go&logoColor=white
 [micropython]: https://img.shields.io/badge/micropython-3670A0?style=for-the-badge&logo=micropython&logoColor=white
+[netbeans]: https://img.shields.io/badge/apache%20netbeans-1B6AC6?style=for-the-badge&logo=apache%20netbeans%20IDE&logoColor=white
 
 [sqlite]: https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white
 [mysql]: https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white
@@ -150,15 +151,15 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++] ![c]               | ![vs]                           |                         |                                         |
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |                                 |                          |                                         |
 | Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |  ![json]                 |                  |                                         |
-| 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     |                                 |                      |                                  |                             |
-| Web Game using Pure JavaScript (Inspired by Bloons Tower Defense)         	| ![js]                     |                                 |                      |                        |                          |
-|To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               |                                 |     ![mongodb]            |            |         |
-| Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 |                                  |                      |                         |                           |
-| Probability and Statistical Analysis 					                              | ![python]                 |                                 |                      |                        |                          |
-| Desktop Tic-Tac-Toe Application 				  			                            | ![java]			              |                              |                         |                         |                           |
+| 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     | ![webstorm]                     |                      |                                  |                             |
+| Web Game using Pure JavaScript (Inspired by Bloons Tower Defense)         	| ![js]                     | ![webstorm]                     |                      |                        |                          |
+|To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               | ![webstorm]                     |     ![mongodb]            |            |         |
+| Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 | ![vs]                           |                      |                         |                           |
+| Probability and Statistical Analysis 					                              | ![python]                 | ![pycharm]                      |                      |                        |                          |
+| Desktop Tic-Tac-Toe Application 				  			                            | ![java]			              | ![netbeans]                    |                         |                         |                           |
 | Speech, Object, and Text Recognition in Images (Photos and Videos) 		      | ![matlab] ![python]       |                               |                        |                        |                        |
-| Smart Home System using Raspberry Pi 				   		                          | ![micropython]            |                             |                          |                    |                       |
-| Web Scraper (Web Harvesting and Data Extraction) 					                  | ![python]                 |                             |                            |                        |                        |
+| Smart Home System using Raspberry Pi 				   		                          | ![micropython]            |                               |                          |                    |                       |
+| Web Scraper (Web Harvesting and Data Extraction) 					                  | ![python]                 | ![pycharm]                    |                            |                        |                        |
 | Encryption Algorithms (Caesar, Vigenère, Substitution, Transposition, RSA)  | ![java] ![python]         |                              |                        |                     |                       |
 | Calculator Application with Custom UI		                                    | ![matlab]                 |                              |                          |                            |                             |
 | Compression Algorithms (Huffman, LZW, BWT, RLE)  				                    | ![java] ![python]         |                             |                        |                      |                           |
