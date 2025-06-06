@@ -143,9 +143,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |                          |
-| Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                        |
-| Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                           |                          |
+| Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |                          |                           |
+| Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                        |                             |
+| Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                           |                         |
 | Bachelor's Thesis - Compact System for Data Collection and Processing in IoT 	| ![c++] ![c]               | ![vscode]                       |                          |                         |                         |
 | Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![java] ![ts]             | ![intellijidea] ![webstorm]     | ![mysql]                 |                          |                           |
 | Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![java] ![ts]             | ![angular] ![spring]            |                        |                             |                          |
