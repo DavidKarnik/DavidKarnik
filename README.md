@@ -196,7 +196,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 <p><strong>Contact me</strong></p>
 <p align="left">
 <!--   <a href="https://www.linkedin.com/in/david-karnik/" target="blank"><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /> -->
-    <a href="https://www.linkedin.com/in/david-karnik/" target="blank"><img height=30 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
+    <a href="https://www.linkedin.com/in/david-karnik/" target="blank"><img height=30 src="https://github.com/devicons/devicon/blob/v2.16.0/icons/linkedin/linkedin-original.svg" />
   </a>
 <!--   <a href="https://www.instagram.com/marcelus_h/" target="blank"><img height=30 src="https://cdn.myshoptet.com/usr/www.dobrycider.cz/user/documents/upload/instagram-icon.png" />
   </a> -->
