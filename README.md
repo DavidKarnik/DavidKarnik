@@ -143,6 +143,8 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
+| Multiagent game TicTacToe with 3 AI models                                  |                           | ![python]                       |                          |                          |                           |
+| AI multiagent chat with weather data                                        |                           | ![python]                       |                          |                          |                           |
 | Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |                          |                           |
 | Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                        |                             |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                           |                         |
