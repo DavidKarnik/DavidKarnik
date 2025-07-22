@@ -21,6 +21,7 @@
 [vim]: https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white
 [pycharm]: https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green
 [audacity]: https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white
+[GoLand]: https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white
 
 [c]: https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white
 [c++]: https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white
@@ -163,7 +164,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![java] ![ts]             | ![intellijidea] ![webstorm]     | ![mysql]                 |                          |                           |
 | Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![java] ![ts]             | ![angular] ![spring]            |                          |                             |                          |
 | 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++] ![c]               | ![vs]                           |                          |  ![OpenGL]               |                          |
-| Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |                                 |                          |                         |                           |
+| Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |  ![GoLand]                      |                          |                         |                           |
 | Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |  ![json]                 |                        |                            |
 | Bachelor's Project - Integrating ESP32 into a Smart Home System 	          | ![c++] ![c]               | ![vscode]                       |                          |                          |                          |
 | 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     | ![webstorm]                     |                          |                         |                           |
