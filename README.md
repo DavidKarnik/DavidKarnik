@@ -44,6 +44,8 @@
 [latex]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
 
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
 # About me ✍️
 
 Hello there! My name is David and here are some of my projects. Feel free to use them for good. I graduated from electrical engineering and currently I'm learning as much as I can about IT world. It is my passion and also my field at university.
@@ -145,7 +147,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
 | Multiagent game TicTacToe with 3 AI models                                  |                           | ![python]                       |                          |                          |                           |
 | AI multiagent chat with weather data                                        |                           | ![python]                       |                          |                          |                           |
-| Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |                          |                           |
+| Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |   ![Amazon Alexa]         |                           |
 | Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                        |                             |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                           |                         |
 | Bachelor's Thesis - Compact System for Data Collection and Processing in IoT 	| ![c++] ![c]               | ![vscode]                       |                          |                         |                         |
