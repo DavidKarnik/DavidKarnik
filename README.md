@@ -10,6 +10,7 @@
 [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
+[OpenGL]: https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge
 
 [intellijidea]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [webstorm]: https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black
@@ -160,7 +161,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Bachelor's Thesis - Compact System for Data Collection and Processing in IoT 	| ![c++] ![c]               | ![vscode]                       |                          |                         |                         |
 | Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![java] ![ts]             | ![intellijidea] ![webstorm]     | ![mysql]                 |                          |                           |
 | Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![java] ![ts]             | ![angular] ![spring]            |                          |                             |                          |
-| 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++] ![c]               | ![vs]                           |                         |                           |                          |
+| 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++] ![c]               | ![vs]                           |                          |  ![OpenGL]               |                          |
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |                                 |                          |                         |                           |
 | Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |  ![json]                 |                        |                            |
 | Bachelor's Project - Integrating ESP32 into a Smart Home System 	          | ![c++] ![c]               | ![vscode]                       |                          |                          |                          |
