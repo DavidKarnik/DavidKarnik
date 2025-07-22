@@ -123,8 +123,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <img src="https://img.shields.io/badge/mysql-darkblue?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
+  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/docker-lightblue?style=for-the-badge&logo=docker" alt="Docker">
-  ![Postgres]
+  
 </div>
 
 <i>... and more</i>
