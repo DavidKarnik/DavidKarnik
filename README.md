@@ -166,19 +166,17 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Bachelor's Project - Integrating ESP32 into a Smart Home System 	          | ![c++] ![c]               | ![vscode]                       |                          |                          |                          |
 | 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     | ![webstorm]                     |                          |                         |                           |
 | Web Game using Pure JavaScript (Inspired by Bloons Tower Defense)         	| ![js]                     | ![webstorm]                     |                          |                        |                            |
-|To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               | ![webstorm]                     |     ![mongodb]            |                          |                         |
-| Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 | ![vs]                           |                        |                           |                           |
-| Probability and Statistics Analysis 					                              | ![python]                 | ![pycharm]                      |                        |                          |                            |
-| Desktop Tic-Tac-Toe Application 				  			                            | ![java]			              | ![netbeans]                    |                         |                           |                             |
-| Speech, Object, and Text Recognition in Images (Photos and Videos) 		      | ![matlab] ![python]       |                               |                          |                              |                        |
-| Smart Home System using Raspberry Pi 				   		                          | ![micropython]            |                               |                          |                            |                             |
+|To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               | ![webstorm]                     |     ![mongodb]           | ![JWT]                 |                         |
+| Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 | ![vs]                           |                          |                           |                           |
+| Probability and Statistics Analysis 					                              | ![python]                 | ![pycharm]                      |                          |                          |                            |
+| Desktop Tic-Tac-Toe Application 				  			                            | ![java]			              | ![netbeans]                    |                           |                           |                             |
+| Speech, Object, and Text Recognition in Images (Photos and Videos) 		      | ![matlab] ![python]       |                               |                            |                              |                        |
+| Smart Home System using Raspberry Pi 				   		                          | ![micropython]            |                               |                            |                            |                             |
 | Web Scraper (Web Harvesting and Data Extraction) 					                  | ![python]                 | ![pycharm]                    |                            |                        |                              |
-| Encryption Algorithms (Caesar, Vigenère, Substitution, Transposition, RSA)  | ![java] ![python]         |                              |                          |                           |                               |
-| Calculator Application with Custom UI		                                    | ![matlab]                 |                              |                          |                            |                             |
+| Encryption Algorithms (Caesar, Vigenère, Substitution, Transposition, RSA)  | ![java] ![python]         |                              |                            |                           |                               |
+| Calculator Application with Custom UI		                                    | ![matlab]                 |                              |                            |                            |                             |
 | Compression Algorithms (Huffman, LZW, BWT, RLE)  				                    | ![java] ![python]         |                             |                            |                            |                           |
 | Autonomous Racing Model Car ROBOTIS (RoboPlus) 				                      |                           |                              |                           |                           |                            |
-| vvv  				                                                                |                           |                             |                            |                             |                        |
-
 </details>
 
 <!--
