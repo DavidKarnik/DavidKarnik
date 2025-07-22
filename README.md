@@ -8,6 +8,7 @@
 [spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [angular]: https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white
 [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+[FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 
 [intellijidea]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
@@ -150,8 +151,8 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Multiagent game TicTacToe with 3 AI models                                  |                           | ![python]                       |                          |                          |                           |
-| AI multiagent chat with weather data                                        |                           | ![python]                       |                          |                          |                           |
+| Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          |                          |                           |
+| AI multiagent chat with weather data                                        | ![python]                 |  ![FastAPI]                     |                          |                          |                           |
 | Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |   ![Amazon Alexa]         |                           |
 | Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                        |                             |
 | Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                           |                         |
