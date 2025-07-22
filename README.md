@@ -48,6 +48,7 @@
 
 [Amazon Alexa]: https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white
 [GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 
 # About me ✍️
 
@@ -154,11 +155,11 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          |                          |                           |
 | AI multiagent chat with weather data                                        | ![python]                 |  ![FastAPI]                     |                          |                          |                           |
 | Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |   ![Amazon Alexa]         |                           |
-| Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                        |                             |
-| Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           |                           |                         |
+| Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                          |                             |
+| Bank Web Application with Login, 2FA Authentication, and Data Encryption    | ![java]                   | ![spring]                       |                           | ![JWT]                  |                         |
 | Bachelor's Thesis - Compact System for Data Collection and Processing in IoT 	| ![c++] ![c]               | ![vscode]                       |                          |                         |                         |
 | Click-Based Web Game with Database and Login (3-Tier Architecture) 		      | ![java] ![ts]             | ![intellijidea] ![webstorm]     | ![mysql]                 |                          |                           |
-| Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![java] ![ts]             | ![angular] ![spring]            |                        |                             |                          |
+| Strategic Web Game with a Village Map (Inspired by Tribal Wars) 					  | ![java] ![ts]             | ![angular] ![spring]            |                          |                             |                          |
 | 3D Desktop Game using OpenGL with a Own Custom Engine and Models 			      | ![c++] ![c]               | ![vs]                           |                         |                           |                          |
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |                                 |                          |                         |                           |
 | Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |  ![json]                 |                        |                            |
