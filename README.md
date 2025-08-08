@@ -252,10 +252,11 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 ---
 
-
 <div align="center">
   <code>Programming is like an onion, the more you peel it the more you want to cry.</code>
 </div>
+
+<br>
 
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
