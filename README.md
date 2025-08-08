@@ -252,6 +252,11 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 ---
 
+
+<div align="center">
+  <code>Programming is like an onion, the more you peel it the more you want to cry.</code>
+</div>
+
 <!-- hidden visit counter -->
 <!-- width="1" height="1" style="opacity: 0.1;" -->
 <div align="center">
@@ -260,9 +265,6 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 
 
-<div align="center">
-  <code>Programming is like an onion, the more you peel it the more you want to cry.</code>
-</div>
 <!--
 **DavidKarnik/DavidKarnik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile..
 
