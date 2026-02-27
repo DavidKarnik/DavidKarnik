@@ -51,12 +51,14 @@
 [jwt]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
 [latex]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
-[mcp]: https://img.shields.io/badge/mcp-grey?style=for-the-badge
 
 [Amazon Alexa]: https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white
 [GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
 [JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 [Grafana]: https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
+
+[gpt]: https://custom-icon-badges.demolab.com/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+[mcp]: https://img.shields.io/badge/mcp-grey?style=for-the-badge
 
 # About me ✍️
 
@@ -162,7 +164,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
 | System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]  |                            |
-| Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          |                              |                           |
+| Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          | ![gpt]                     |                           |
 | AI multiagent chat with weather data                                        | ![python]                 |  ![FastAPI]                     |                          | ![mcp]                        |                           |
 | Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |   ![Amazon Alexa]             |                           |
 | Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                                |                             |
