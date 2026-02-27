@@ -45,7 +45,7 @@
 [docker]: https://img.shields.io/badge/docker-lightblue?style=for-the-badge&logo=docker
 [json]: https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[podman]: https://img.shields.io/badge/podman-lightblue?style=for-the-badge&logo=podman
+[podman]: https://img.shields.io/badge/podman-blue?style=for-the-badge&logo=podman
 
 [jwt]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
 [latex]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
@@ -134,7 +134,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">
   <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="Postgres">
   <img src="https://img.shields.io/badge/docker-lightblue?style=for-the-badge&logo=docker" alt="Docker">
-  
+  <img src="https://img.shields.io/badge/podman-blue?style=for-the-badge&logo=podman" alt="Podman">
 </div>
 
 <i>... and more</i>
@@ -159,7 +159,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana]                     |                            |
+| System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]  |                            |
 | Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          |                              |                           |
 | AI multiagent chat with weather data                                        | ![python]                 |  ![FastAPI]                     |                          |                              |                           |
 | Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |   ![Amazon Alexa]             |                           |
