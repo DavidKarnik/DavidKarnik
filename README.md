@@ -45,7 +45,7 @@
 [docker]: https://img.shields.io/badge/docker-lightblue?style=for-the-badge&logo=docker
 [json]: https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white
 [Postgres]: https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white
-[podman]: https://img.shields.io/badge/podman-blue?style=for-the-badge&logo=podman
+[podman]: https://img.shields.io/badge/podman-blue?style=for-the-badge&logo=podman&logoColor=black
 
 [jwt]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
 [latex]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
