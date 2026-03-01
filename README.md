@@ -163,8 +163,9 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]  |                            |
-| Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          | ![gpt]                     |                           |
+| CLI RAG system with GPT LLM model and self-hosted vector database           | [python]                  |                                 | ![Weaviate]              | ![Docker] ![gpt]                |                            |
+| System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]            |                            |
+| Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          | ![gpt]                         |                           |
 | AI multiagent chat with weather data                                        | ![python]                 |  ![FastAPI]                     |                          | ![mcp]                        |                           |
 | Self hosted smart home on ubuntu server with HA Docker                      |                           | ![ubuntuserver]                 |                          |   ![Amazon Alexa]             |                           |
 | Mobile Application for Children's Activity Organizers 				              | ![java]                   | ![android-studio]               | ![sqlite]                |                                |                             |
