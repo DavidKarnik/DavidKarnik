@@ -59,7 +59,7 @@
 
 [gpt]: https://custom-icon-badges.demolab.com/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
 [mcp]: https://img.shields.io/badge/mcp-grey?style=for-the-badge
-[Weaviate]: https://custom-icon-badges.demolab.com/badge/Weaviate-10e85c?style=for-the-badge&logo=database&logoColor=white
+[Weaviate]: https://custom-icon-badges.demolab.com/badge/Weaviate-65F092?style=for-the-badge&logo=database&logoColor=black
 [Zilliz]: https://custom-icon-badges.demolab.com/badge/zilliz-5545d1?style=for-the-badge&logo=cloud&logoColor=white
 
 # About me ✍️
