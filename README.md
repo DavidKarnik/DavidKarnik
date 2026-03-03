@@ -235,7 +235,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 <p><strong>Projects to checkout</strong></p>
 
 <a href="https://github.com/DavidKarnik/bankWebApp">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidKarnik&repo=bankWebApp" />
+  <img align="center" src="https://readme-stats-two-chi.vercel.app/api/pin/?username=DavidKarnik&repo=bankWebApp" />
 </a>
 
 <!-- Its main projects -->
