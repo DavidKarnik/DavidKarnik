@@ -14,6 +14,7 @@
 [Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [OpenGL]: https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge
+[ThreeJS]: https://img.shields.io/badge/Three.js-000?logo=threedotjs&logoColor=fff&style=for-the-badge
 [Firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
 [Quarkus]: https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white
 
@@ -182,7 +183,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 | Gas Station Simulator (Parallel, Go Routines, Go Concurrency, Docker) 	    | ![go]                     |  ![GoLand]                      |                          |                               |                           |
 | Finance Management Web Application 							                            | ![java] ![js]             | ![spring] ![vue]                |  ![json]                 |                              |                            |
 | Bachelor's Project - Integrating ESP32 into a Smart Home System 	          | ![c++] ![c]               | ![vscode]                       |                          |                              |                          |
-| 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     | ![webstorm]                     |                          |                             |                           |
+| 3D Web Ping-Pong Game using Three.js 					                              | ![js]                     | ![webstorm]                     |                          |  ![ThreeJS]                  |                           |
 | Web Game using Pure JavaScript (Inspired by Bloons Tower Defense)         	| ![js]                     | ![webstorm]                     |                          |                              |                            |
 |To-Do List Web Application with Database and Encryption (Monolithic Architecture)  | ![js]               | ![webstorm]                     |     ![mongodb]           | ![JWT]                       |                         |
 | Desktop Combat Game (Inspired by Swords and Sandals) 			  	              | ![c#][c#]                 | ![vs]                           |                          |                               |                           |
