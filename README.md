@@ -9,7 +9,7 @@
 [angular]: https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white
 [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
 [FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
-[Flash]: https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white
+[Flask]: https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
 [OpenGL]: https://img.shields.io/badge/OpenGL-white?logo=OpenGL&style=for-the-badge
 [Firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
@@ -165,6 +165,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
+| Web RAG system with GPT LLM model and cloud-hosted vector database          | ![python]                 | ![Flask]                        | ![Zilliz]                | ![gpt]                         |                            |
 | CLI RAG system with GPT LLM model and self-hosted vector database           | ![python]                 |                                 | ![Weaviate]              | ![Docker] ![gpt]                |                            |
 | System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]            |                            |
 | Multiagent game TicTacToe with 3 AI models                                  | ![python]                 |  ![FastAPI]                     |                          | ![gpt]                         |                           |
