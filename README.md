@@ -6,6 +6,8 @@
 [ubuntu]: https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [ubuntuserver]: https://img.shields.io/badge/UbuntuServer-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 [tomcat]: https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black
+[supabase]: https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white
+[hetzner]: https://img.shields.io/badge/Hetzner-%23DD0031.svg?style=for-the-badge&logo=hetzner&logoColor=white
 
 [spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [angular]: https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white
@@ -18,6 +20,7 @@
 [Firebase]: https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase
 [Quarkus]: https://img.shields.io/badge/quarkus-%234794EB.svg?style=for-the-badge&logo=quarkus&logoColor=white
 
+[windows-terminal]: https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white
 [intellijidea]: https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white
 [webstorm]: https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black
 [vs]: https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white
@@ -61,6 +64,7 @@
 [Grafana]: https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
 
 [gpt]: https://custom-icon-badges.demolab.com/badge/GPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white
+[claude-code]: https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=claudecode&logoColor=white
 [mcp]: https://img.shields.io/badge/mcp-grey?style=for-the-badge
 [Weaviate]: https://custom-icon-badges.demolab.com/badge/Weaviate-65F092?style=for-the-badge&logo=database&logoColor=black
 [Zilliz]: https://custom-icon-badges.demolab.com/badge/zilliz-5545d1?style=for-the-badge&logo=cloud&logoColor=white
@@ -168,6 +172,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
+| Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
 | Web RAG system with GPT LLM model and cloud-hosted vector database          | ![python]                 | ![Flask]                        | ![Zilliz]                | ![gpt]                         |                            |
 | CLI RAG system with GPT LLM model and self-hosted vector database           | ![python]                 |                                 | ![Weaviate]              | ![Docker] ![gpt]                |                            |
 | System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]            |                            |
