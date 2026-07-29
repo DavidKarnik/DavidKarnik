@@ -176,7 +176,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Automated Tool for Design Audit of Company Websites                         | ![ts]                     | ![playwright]                   |                           | ![GitLab-CI] ![vitest]          |                            |
+| Tool for Automated Design Audit of Company Websites                         | ![ts]                     | ![playwright]                   |                           | ![GitLab-CI] ![vitest]          |                            |
 | Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] ![react] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
 | Web RAG system with GPT LLM model and cloud-hosted vector database          | ![python]                 | ![Flask]                        | ![Zilliz]                | ![gpt]                         |                            |
 | CLI RAG system with GPT LLM model and self-hosted vector database           | ![python]                 |                                 | ![Weaviate]              | ![Docker] ![gpt]                |                            |
