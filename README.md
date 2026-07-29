@@ -58,9 +58,12 @@
 [jwt]: https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white
 [latex]: https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white
 [postman]: https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white
+[playwright]: https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white
+[vitest]: https://img.shields.io/badge/-Vitest-252529?style=for-the-badge&logo=vitest&logoColor=FCC72B
 
 [Amazon Alexa]: https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white
 [GitHub Actions]: https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white
+[GitLab-CI]: https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white
 [JWT]: https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens
 [Grafana]: https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white
 
@@ -173,6 +176,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
+| Automated Tool for Design Audit of Company Websites                         | ![ts]                     | ![playwright]                   |                           | ![GitLab-CI] ![vitest]          |                            |
 | Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] ![react] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
 | Web RAG system with GPT LLM model and cloud-hosted vector database          | ![python]                 | ![Flask]                        | ![Zilliz]                | ![gpt]                         |                            |
 | CLI RAG system with GPT LLM model and self-hosted vector database           | ![python]                 |                                 | ![Weaviate]              | ![Docker] ![gpt]                |                            |
