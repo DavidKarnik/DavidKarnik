@@ -12,6 +12,7 @@
 [spring]: https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white
 [angular]: https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white
 [vue]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D
+[react]: https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB
 [FastAPI]: https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi
 [Flask]: https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white
 [git]: https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white
@@ -172,7 +173,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
+| Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] ![react] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
 | Web RAG system with GPT LLM model and cloud-hosted vector database          | ![python]                 | ![Flask]                        | ![Zilliz]                | ![gpt]                         |                            |
 | CLI RAG system with GPT LLM model and self-hosted vector database           | ![python]                 |                                 | ![Weaviate]              | ![Docker] ![gpt]                |                            |
 | System for Monitoring the Use of Software Modules in Public Administration  | ![java]                   | ![Quarkus]                      | ![Postgres]              | ![Grafana] ![podman]            |                            |
