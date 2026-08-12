@@ -79,7 +79,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 - 🔭 I’m currently working on myself
 - 🌱 I’m currently learning how LLMs work 🤌
-- 👨‍💻 I am interested in `Java`, `Backend`, `CI/CD`, `Fullstack` !
+- 👨‍💻 I am interested in `LLMs`, `Agents`, `Backend` !
 - 💬 Ask me about anything you want to know
 
 ---
