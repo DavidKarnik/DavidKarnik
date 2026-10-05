@@ -161,7 +161,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <summary>:zap: Using atm (On a daily basis)</summary>
   <br>
   <div align="center">
-    ![vscode]
+    <img ![vscode]>
     <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 <!--     <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
     <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="Android Studio"> -->
