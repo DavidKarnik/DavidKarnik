@@ -181,7 +181,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Sandboxed AI Agentic development           | ![ts]                     | ![windows-terminal] ![ubuntuserver] ![react] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
+| Sandboxed AI Agentic development           |                    | ![windows-terminal] ![vscode] |           | ![Docker] ![claude-code] |                            |
 | Company Homepage Redesign                            | ![js]                     |                    |                           |                               |                            |
 | Tool for Automated Design Audit of Company Websites                         | ![ts]                     | ![playwright]                   |                           | ![GitLab-CI] ![vitest]          |                            |
 | Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] ![react] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
