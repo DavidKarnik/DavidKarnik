@@ -179,9 +179,10 @@ Hello there! My name is David and here are some of my projects. Feel free to use
   <summary>💻 Some of my projects</summary>
 <br>
 
-| Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                  |
+| Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                   |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Sandboxed AI Agentic secure development          |                    | ![windows-terminal] ![vscode] |           | ![Docker] ![claude-code] |                            |
+| Testing Sandboxed AI (security, accesses, breach)          |                    | ![windows-terminal] |           | ![Docker] ![claude-code] |
+| Sandboxed AI Agentic secure development          |                    | ![windows-terminal] ![vscode] |           | ![Docker] ![claude-code] |
 | Company Homepage Redesign                            | ![js]                     |                    |                           |                               |                            |
 | Tool for Automated Design Audit of Company Websites                         | ![ts]                     | ![playwright]                   |                           | ![GitLab-CI] ![vitest]          |                            |
 | Full Agentic engineered 2D Web Game (Test extreme AI development)           | ![ts]                     | ![windows-terminal] ![ubuntuserver] ![react] | ![Postgres]          | ![claude-code] ![supabase] ![hetzner] |                            |
