@@ -181,7 +181,7 @@ Hello there! My name is David and here are some of my projects. Feel free to use
 
 | Project                                					                            | Language                  | Framework/IDE/OS                   | DB                    | Tools                                   |
 |-----------------------------------------------------------------------------|---------------------------|---------------------------------|--------------------------|-----------------------------------------|
-| Testing Sandboxed AI (security, accesses, breach)          |                    | ![windows-terminal] |           | ![Docker] ![claude-code] |
+| Testing Sandboxed AI (security, accesses, firewall, breach)          |                    | ![windows-terminal] |           | ![Docker] ![claude-code] ![podman] |
 | Sandboxed AI Agentic secure development          |                    | ![windows-terminal] ![vscode] |           | ![Docker] ![claude-code] |
 | Company Homepage Redesign                            | ![js]                     |                    |                           |                               |                            |
 | Tool for Automated Design Audit of Company Websites                         | ![ts]                     | ![playwright]                   |                           | ![GitLab-CI] ![vitest]          |                            |
