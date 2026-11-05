@@ -79,7 +79,7 @@ I build software end to end, from a whiteboard workshop to a deployed product.
 My core is backend and cloud, with a background in electrical engineering and
 embedded systems. Today I work on AI-first products, web and cloud applications.
 
-- 🔭 I’m currently working on myself
+- 🔭 I’m currently working on collaboration of devs and AIs
 - 🌱 I’m currently learning how to secure Agents 🤌
 - 👨‍💻 I am interested in `LLMs`, `Agents`, `Start-ups` !
 - 💬 Ask me about anything you want to know
